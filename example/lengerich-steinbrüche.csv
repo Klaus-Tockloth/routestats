@@ -1,0 +1,303 @@
+Longitude	Latitude	Elevation	Distance	CostPerKm	ElevCost	TurnCost	NodeCost	InitialCost	WayTags	NodeTags	Time	Energy
+7884264	52179958	99	4	1000	0	0	0	0	highway=service surface=asphalt		2	45
+7884560	52179873	99	22	1000	0	0	0	0	reversedirection=yes highway=service surface=compacted foot=permissive		18	378
+7884870	52180155	103	31	1000	0	0	0	0	reversedirection=yes highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		41	901
+7885258	52180704	112	74	1000	0	0	0	0	reversedirection=yes highway=service surface=asphalt foot=permissive route_hiking_lwn=yes	barrier=lift_gate foot=yes bicycle=yes	59	2725
+7885681	52181197	116	62	1000	0	0	0	0	reversedirection=yes highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		113	6563
+7886125	52181566	119	16	1000	0	0	0	0	reversedirection=yes highway=service surface=asphalt route_hiking_lwn=yes		127	7457
+7885681	52181197	116	16	1000	0	0	0	0	highway=service surface=asphalt route_hiking_lwn=yes		11	50
+7885258	52180704	112	62	1000	0	0	0	0	highway=service surface=asphalt foot=permissive route_hiking_lwn=yes	barrier=lift_gate foot=yes bicycle=yes	52	73
+7885176	52180604	110	1	1000	0	0	0	0	highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		53	73
+7885176	52180604	110	12	1000	0	0	0	0	highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		8	0
+7884823	52180936	113	39	1000	0	0	0	0	highway=path surface=ground		37	729
+7885141	52181556	119	65	1000	0	0	0	0	highway=path surface=ground		47	1062
+7884949	52182854	135	153	1000	0	0	0	0	highway=path surface=ground		131	8214
+7884949	52182854	135	7	1000	0	0	0	0	highway=path surface=ground		5	124
+7886435	52183395	143	119	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		96	3218
+7887031	52183862	149	72	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		54	1691
+7887685	52183802	145	41	1000	0	0	0	0	reversedirection=yes highway=path		84	2393
+7888391	52183697	139	54	1000	0	0	0	0	reversedirection=yes highway=path		37	170
+7888477	52183363	136	38	1000	0	0	0	0	highway=service surface=asphalt route_hiking_lwn=yes		60	170
+7888623	52183358	136	8	1000	0	0	0	0	reversedirection=yes highway=service surface=compacted		65	170
+7888556	52183368	136	3	1000	0	0	0	0	highway=service surface=compacted		2	27
+7889414	52184228	143	95	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 surface=compacted route_hiking_lwn=yes		73	2093
+7889792	52185580	145	172	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 surface=compacted route_hiking_lwn=yes		124	2209
+7890073	52185418	144	4	1000	0	0	0	0	highway=track tracktype=grade3 surface=compacted route_hiking_rwn=yes route_hiking_lwn=yes		127	2308
+7890429	52185383	145	47	1000	0	0	0	0	highway=track tracktype=grade3 surface=compacted route_hiking_rwn=yes route_hiking_lwn=yes		33	326
+7891401	52186027	155	100	1000	0	0	0	0	highway=track tracktype=grade3 surface=compacted route_hiking_rwn=yes route_hiking_lwn=yes		78	3159
+7891478	52186067	156	6	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=3		83	3469
+7892718	52185857	163	77	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=3		57	1409
+7893083	52185582	162	54	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=3		39	978
+7899915	52182475	159	545	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		427	6520
+7900231	52182356	156	74	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		54	1257
+7900532	52182458	159	28	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		19	254
+7901225	52182613	159	47	1000	0	0	0	0	highway=path surface=ground		54	1100
+7901225	52182613	159	4	1000	0	0	0	0	highway=path surface=ground		2	37
+7905303	52181538	154	296	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		207	1091
+7906084	52180870	148	106	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		71	157
+7905874	52180134	143	82	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		55	68
+7905813	52180169	142	6	1000	0	0	0	0	highway=track access=no		59	68
+7905874	52180134	143	6	1000	0	0	0	0	reversedirection=yes highway=track access=no		4	81
+7906048	52179950	144	24	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		21	470
+7906790	52180313	154	66	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		55	3125
+7908770	52180530	149	136	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		159	6645
+7911425	52179892	141	206	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		148	3088
+7913344	52179081	144	155	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		111	2018
+7913566	52179047	144	35	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		25	389
+7912232	52178424	152	112	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		110	3225
+7912284	52178381	153	16	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		11	297
+7912614	52178280	156	25	1000	0	0	0	0	reversedirection=yes highway=steps route_hiking_rwn=yes route_hiking_lwn=yes		30	885
+7912825	52178232	157	6	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		35	1026
+7912825	52178232	157	2	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		1	18
+7912825	52178232	157	8	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		5	124
+7913014	52178291	160	15	1000	0	0	0	0	reversedirection=yes highway=steps route_hiking_rwn=yes route_hiking_lwn=yes		16	345
+7913406	52178178	162	15	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		27	619
+7913406	52178178	162	15	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		11	261
+7913542	52178039	161	18	1000	0	0	0	0	reversedirection=yes highway=steps tracktype=grade3 surface=ground incline=down route_hiking_rwn=yes route_hiking_lwn=yes		23	444
+7916807	52176626	189	261	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		257	17325
+7920244	52175917	193	278	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		203	4376
+7920394	52175854	193	10	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=4		211	4528
+7921109	52175049	183	107	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=4		68	47
+7921014	52175019	183	5	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 surface=ground route_hiking_lwn=yes		72	47
+7921109	52175049	183	5	1000	0	0	0	0	highway=path tracktype=grade3 surface=ground route_hiking_lwn=yes		3	57
+7922131	52174804	182	58	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		44	460
+7922131	52174804	182	18	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		12	166
+7923228	52174828	183	77	1000	0	0	0	0	reversedirection=yes highway=path		68	1234
+7925436	52173823	190	194	1000	0	0	0	0	reversedirection=yes highway=path		148	5068
+7925436	52173823	190	5	1000	0	0	0	0	reversedirection=yes highway=path		3	35
+7925438	52173733	190	10	1000	0	0	0	0	reversedirection=yes highway=service surface=compacted service=driveway		10	97
+7925166	52173683	190	19	1000	0	0	0	0	highway=tertiary surface=asphalt maxspeed=100 lanes=2 route_bicycle_rcn=yes		24	280
+7925203	52173603	190	9	1000	0	0	0	0	highway=track tracktype=grade2 surface=compacted		30	329
+7925247	52173556	190	3	1000	0	0	0	0	highway=track tracktype=grade2 surface=compacted route_hiking_rwn=yes		32	339
+7925774	52172693	194	107	1000	0	0	0	0	highway=track tracktype=grade2 surface=compacted route_hiking_rwn=yes		78	1749
+7925662	52172563	194	3	1000	0	0	0	0	reversedirection=yes highway=path		80	1780
+7925774	52172693	194	3	1000	0	0	0	0	highway=path		2	27
+7926541	52172562	200	54	1000	0	0	0	0	highway=track tracktype=grade2 surface=compacted route_hiking_rwn=yes		43	1556
+7929829	52172933	217	232	1000	0	0	0	0	highway=path tracktype=grade5 surface=dirt route_hiking_rwn=yes		243	14463
+7930832	52171691	220	159	1000	0	0	0	0	highway=path tracktype=grade5 surface=dirt route_hiking_rwn=yes		118	3165
+7930298	52171748	218	9	1000	0	0	0	0	reversedirection=yes highway=track access=no		125	3273
+7930832	52171691	220	9	1000	0	0	0	0	highway=track access=no		6	121
+7935961	52170822	226	345	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes		264	7336
+7937317	52170074	233	124	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes		92	2348
+7937582	52169705	233	64	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes		48	1663
+7937460	52169937	234	9	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes		6	83
+7937582	52169705	233	17	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes		12	157
+7938594	52168999	237	108	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel		94	2742
+7938533	52168780	231	25	1000	0	0	0	0	highway=path		111	2818
+7938510	52168693	229	8	1000	0	0	0	0	highway=steps incline=up		116	2818
+7938533	52168780	231	8	1000	0	0	0	0	reversedirection=yes highway=steps incline=up		6	209
+7938594	52168999	237	25	1000	0	0	0	0	reversedirection=yes highway=path		26	1287
+7938151	52169163	237	3	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=gravel		28	1403
+7938028	52169223	236	43	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=gravel		30	296
+7938101	52169445	238	9	1000	0	0	0	0	reversedirection=yes highway=track		36	333
+7938243	52169688	240	45	1000	0	0	0	0	reversedirection=yes highway=track		33	743
+7938557	52170178	240	48	1000	0	0	0	0	highway=track route=unknown route_hiking_rwn=yes		67	1231
+7938582	52170235	238	18	1000	0	0	0	0	highway=track route=unknown route_hiking_rwn=yes		12	101
+7939809	52170256	231	71	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=ground route_hiking_rwn=yes		58	106
+7940607	52170140	228	65	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=ground route_hiking_rwn=yes		43	93
+7942373	52169429	233	140	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=ground route_hiking_rwn=yes		100	1416
+7942401	52168425	238	124	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=ground route_hiking_rwn=yes		96	3873
+7942655	52168385	238	16	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		109	4399
+7949550	52167848	238	484	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		349	5715
+7951633	52168773	232	168	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		118	1454
+7953301	52168685	230	99	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		67	33
+7955793	52168133	230	208	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		149	2230
+7955590	52167671	232	10	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=gravel route_hiking_lwn=yes		156	2356
+7955458	52167243	232	91	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=gravel route_hiking_lwn=yes		66	1511
+7955519	52167182	231	7	1000	0	0	0	0	highway=path surface=gravel		71	1576
+7955458	52167243	232	7	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel		5	73
+7955793	52168133	230	88	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_lwn=yes		67	891
+7955793	52168133	230	13	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_lwn=yes		9	93
+7960798	52166612	219	384	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		265	190
+7961594	52166449	219	58	1000	0	0	0	0	highway=track tracktype=grade1 surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes	highway=crossing crossing=unmarked	305	208
+7963039	52166336	217	101	1000	0	0	0	0	highway=track route_hiking_rwn=yes route_hiking_lwn=yes		374	296
+7963273	52166280	218	16	1000	0	0	0	0	highway=track route_hiking_rwn=yes		385	365
+7964471	52165488	214	115	1000	0	0	0	0	highway=track route_hiking_rwn=yes		80	737
+7966443	52165497	211	146	1000	0	0	0	0	highway=track route_hiking_rwn=yes		99	177
+7969307	52164260	208	243	1000	0	0	0	0	highway=track route_hiking_rwn=yes	highway=crossing crossing=unmarked	165	190
+7969553	52164212	209	18	1000	0	0	0	0	highway=tertiary maxspeed=50 route_bicycle_icn=yes route_bicycle_ncn=yes route_bicycle_rcn=yes route_bicycle_lcn=yes route_hiking_rwn=yes	highway=crossing crossing=unmarked	178	510
+7970883	52163440	213	146	1000	0	0	0	0	highway=track route_hiking_rwn=yes		286	3286
+7970241	52163363	209	9	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=compacted		293	3541
+7970883	52163440	213	9	1000	0	0	0	0	highway=track tracktype=grade3 surface=compacted		6	159
+7976488	52162674	217	384	1000	0	0	0	0	highway=track route_hiking_rwn=yes		296	8925
+7977934	52162154	216	129	1000	0	0	0	0	highway=track route_hiking_rwn=yes		90	714
+7979387	52160620	205	204	1000	0	0	0	0	highway=track route_hiking_rwn=yes	highway=crossing crossing=unmarked	135	495
+7979097	52160665	204	14	1000	0	0	0	0	reversedirection=yes highway=service surface=asphalt		144	495
+7979387	52160620	205	14	1000	0	0	0	0	highway=service surface=asphalt	highway=crossing crossing=unmarked	10	215
+7980181	52160478	206	57	1000	0	0	0	0	highway=service surface=asphalt route_hiking_rwn=yes		53	1471
+7980219	52160233	203	26	1000	0	0	0	0	highway=service route_hiking_lwn=yes		70	1564
+7980248	52160078	201	20	1000	0	0	0	0	highway=service route_hiking_lwn=yes		13	27
+7980066	52159617	193	54	1000	0	0	0	0	highway=service service=driveway route_hiking_lwn=yes		48	27
+7980216	52159299	187	38	1000	0	0	0	0	highway=service service=driveway route_hiking_lwn=yes		25	9
+7980434	52159159	184	22	1000	0	0	0	0	reversedirection=yes highway=footway	barrier=bollard	38	9
+7980434	52159148	184	1	1000	0	0	0	0	reversedirection=yes highway=footway		39	9
+7980499	52159099	183	7	1000	0	0	0	0	highway=footway		43	9
+7980516	52159060	182	4	1000	0	0	0	0	highway=steps		46	9
+7980504	52159031	182	5	1000	0	0	0	0	reversedirection=yes highway=footway		49	9
+7980519	52158995	181	4	1000	0	0	0	0	reversedirection=yes highway=steps		51	9
+7980504	52159031	182	4	1000	0	0	0	0	highway=steps		2	62
+7980154	52159049	183	27	1000	0	0	0	0	highway=footway		23	692
+7980128	52159203	186	9	1000	0	0	0	0	highway=track surface=gravel motor_vehicle=private route_hiking_lwn=yes mtb:scale:uphill=1		30	947
+7980346	52158882	180	33	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel motor_vehicle=private route_hiking_lwn=yes mtb:scale:uphill=1		23	116
+7980273	52156590	147	254	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes mtb:scale:uphill=1		202	116
+7979516	52156213	142	64	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes mtb:scale:uphill=1		43	31
+7979557	52155368	124	114	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes mtb:scale:uphill=1		77	52
+7979329	52155559	129	13	1000	0	0	0	0	highway=track route_hiking_lwn=yes		86	52
+7979329	52155559	129	14	1000	0	0	0	0	highway=track route_hiking_lwn=yes		10	445
+7976352	52155320	127	189	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=compacted route_hiking_lwn=yes		146	2494
+7973499	52155937	132	214	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=compacted route_hiking_lwn=yes		170	7739
+7972223	52155932	126	120	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=compacted route_hiking_lwn=yes		79	56
+7971914	52155903	124	21	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade1 surface=asphalt route_hiking_lwn=yes		92	56
+7971950	52156136	128	7	1000	0	0	0	0	highway=tertiary surface=asphalt maxspeed=50 sidewalk=no oneway=no route_bicycle_icn=yes route_bicycle_ncn=yes route_bicycle_rcn=yes		96	56
+7971914	52155903	124	7	1000	0	0	0	0	reversedirection=yes highway=tertiary surface=asphalt maxspeed=50 sidewalk=no oneway=no route_bicycle_icn=yes route_bicycle_ncn=yes route_bicycle_rcn=yes		4	5
+7971886	52155070	113	93	1000	0	0	0	0	reversedirection=yes highway=tertiary surface=asphalt maxspeed=50 oneway=no route_bicycle_icn=yes route_bicycle_ncn=yes route_bicycle_rcn=yes route_hiking_lwn=yes		62	5
+7971778	52155060	113	7	1000	0	0	0	0	reversedirection=yes highway=service route_bicycle_icn=yes route_bicycle_ncn=yes route_bicycle_rcn=yes route_hiking_lwn=yes		66	5
+7971530	52155050	113	6	1000	0	0	0	0	reversedirection=yes highway=service surface=paving_stones route_hiking_lwn=yes		69	5
+7971530	52155050	113	11	1000	0	0	0	0	reversedirection=yes highway=service surface=paving_stones route_hiking_lwn=yes		7	101
+7970442	52155435	119	94	1000	0	0	0	0	highway=track surface=asphalt route_hiking_lwn=yes		79	2442
+7967591	52155208	117	197	1000	0	0	0	0	highway=track surface=asphalt route_hiking_lwn=yes		144	2857
+7966582	52155107	114	12	1000	0	0	0	0	highway=track surface=gravel		152	2857
+7967591	52155208	117	12	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel		8	181
+7962718	52156093	119	386	1000	0	0	0	0	highway=path surface=gravel route_hiking_lwn=yes		301	9459
+7962443	52156658	126	66	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		348	10218
+7962418	52156404	122	26	1000	0	0	0	0	highway=track tracktype=grade3 surface=gravel route_hiking_=yes		18	69
+7962718	52156093	119	39	1000	0	0	0	0	highway=track tracktype=grade3 surface=gravel route_hiking_=yes		26	0
+7962943	52155792	115	38	1000	0	0	0	0	highway=track surface=gravel route_hiking_lwn=yes route_hiking_=yes		51	86
+7962877	52155061	106	14	1000	0	0	0	0	highway=residential surface=paved		60	86
+7962943	52155792	115	14	1000	0	0	0	0	reversedirection=yes highway=residential surface=paved		10	330
+7962718	52156093	119	38	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes route_hiking_=yes		39	1115
+7962586	52156183	119	10	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		46	1377
+7962718	52156093	119	10	1000	0	0	0	0	highway=track tracktype=grade3 surface=gravel route_hiking_=yes		7	71
+7961934	52155800	110	63	1000	0	0	0	0	highway=track surface=gravel route_hiking_lwn=yes route_hiking_=yes		49	146
+7962943	52155792	115	25	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes route_hiking_=yes		18	546
+7963056	52155898	117	12	1000	0	0	0	0	highway=service access=private		27	818
+7962943	52155792	115	12	1000	0	0	0	0	reversedirection=yes highway=service access=private		8	4
+7962718	52156093	119	38	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_lwn=yes route_hiking_=yes		36	756
+7962418	52156404	122	29	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		59	1650
+7962496	52157013	131	79	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		63	3022
+7961420	52158421	144	175	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		150	9524
+7962056	52159534	153	131	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		100	3534
+7962107	52159587	153	1	1000	0	0	0	0	highway=track tracktype=grade3 surface=compacted vehicle=no		101	3573
+7962056	52159534	153	1	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=compacted vehicle=no		0	9
+7959864	52160492	173	176	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		149	8946
+7954237	52160003	151	407	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_=yes		275	2987
+7952809	52159629	148	112	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel		344	2987
+7952704	52158974	144	77	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel		53	190
+7954154	52157902	134	152	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel		100	208
+7953895	52157079	123	87	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel		53	28
+7953895	52157079	123	12	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel		8	0
+7952503	52157246	124	107	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes route_hiking_=yes		86	1551
+7951122	52157486	123	100	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes		157	2605
+7950947	52158165	133	73	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes		57	2448
+7950446	52158293	133	43	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes		31	616
+7948128	52158494	120	161	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes		103	195
+7948128	52158494	120	3	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_lwn=yes		2	21
+7949047	52159599	133	136	1000	0	0	0	0	highway=path		109	4574
+7948535	52160119	129	77	1000	0	0	0	0	highway=path		53	403
+7948791	52160563	134	60	1000	0	0	0	0	highway=path		45	1331
+7948223	52160797	132	50	1000	0	0	0	0	highway=path		34	76
+7948774	52161014	139	34	1000	0	0	0	0	highway=track tracktype=grade4		59	720
+7947858	52160775	130	60	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade4		39	0
+7946590	52160379	123	95	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_lwn=yes route_hiking_=yes		98	0
+7945915	52159612	119	100	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_lwn=yes route_hiking_=yes		67	136
+7945915	52159612	119	2	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=gravel route_hiking_lwn=yes route_hiking_=yes		1	18
+7943396	52160125	120	179	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		133	3071
+7942613	52159506	110	94	1000	0	0	0	0	highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		60	27
+7941981	52159578	110	10	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=paved route_hiking_rwn=yes route_hiking_lwn=yes		66	27
+7930822	52160792	101	810	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=paved route_hiking_rwn=yes route_hiking_lwn=yes		564	2539
+7930707	52160832	101	10	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade2 surface=paved route_hiking_rwn=yes route_hiking_lwn=yes		7	111
+7929105	52160423	97	121	1000	0	0	0	0	highway=service surface=compacted route_hiking_rwn=yes route_hiking_lwn=yes		91	485
+7929162	52161575	101	7	1000	0	0	0	0	highway=residential surface=asphalt route_hiking_rwn=yes route_hiking_lwn=yes		96	532
+7929162	52161575	101	121	1000	0	0	0	0	highway=residential surface=asphalt route_hiking_rwn=yes route_hiking_lwn=yes		88	1893
+7929099	52161781	103	23	1000	0	0	0	0	highway=residential surface=asphalt		106	2445
+7928906	52162096	105	39	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 foot=permissive		137	3848
+7929453	52162755	117	17	1000	0	0	0	0	highway=track		151	4637
+7928906	52162096	105	17	1000	0	0	0	0	reversedirection=yes highway=track		11	14
+7928164	52162826	113	93	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 foot=permissive		81	1931
+7925964	52163089	108	163	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 foot=permissive		113	536
+7923808	52163589	109	146	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel foot=permissive route_hiking_rwn=yes route_hiking_lwn=yes		213	841
+7922991	52163913	109	82	1000	0	0	0	0	highway=track tracktype=grade2 surface=gravel foot=permissive route_hiking_rwn=yes route_hiking_lwn=yes		59	952
+7922039	52162385	96	181	1000	0	0	0	0	reversedirection=yes highway=residential maxspeed=30 noexit=yes		171	952
+7920236	52163545	97	238	1000	0	0	0	0	reversedirection=yes highway=unclassified		333	952
+7921477	52164547	110	140	1000	0	0	0	0	highway=track		451	7993
+7921456	52164626	111	6	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3		456	8196
+7922806	52166170	126	196	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3		164	9594
+7923145	52168865	143	306	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3		244	11435
+7923415	52168846	143	16	1000	0	0	0	0	reversedirection=yes highway=path surface=dirt route_hiking_rwn=yes		257	12101
+7923145	52168865	143	16	1000	0	0	0	0	highway=path surface=dirt route_hiking_rwn=yes		11	213
+7923088	52169338	148	52	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes		51	1652
+7923977	52170726	172	128	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes		109	6711
+7923763	52171147	175	100	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes		81	4345
+7923722	52171444	178	34	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		110	6050
+7923973	52171431	180	9	1000	0	0	0	0	highway=path		118	6534
+7923722	52171444	178	9	1000	0	0	0	0	reversedirection=yes highway=path		6	38
+7924030	52171838	183	49	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		42	907
+7924437	52172281	187	49	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3		81	2597
+7924030	52171838	183	43	1000	0	0	0	0	highway=track tracktype=grade3		28	0
+7924030	52171838	183	6	1000	0	0	0	0	highway=track tracktype=grade3		4	42
+7923426	52172225	180	50	1000	0	0	0	0	reversedirection=yes highway=path surface=dirt route_hiking_rwn=yes route_hiking_lwn=yes		37	42
+7922485	52174361	180	258	1000	0	0	0	0	reversedirection=yes highway=path surface=dirt route_hiking_rwn=yes route_hiking_lwn=yes		185	2658
+7922131	52174804	182	45	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		218	3491
+7921109	52175049	183	90	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		65	1363
+7920701	52175420	187	4	1000	0	0	0	0	highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=4		68	1423
+7920394	52175854	193	101	1000	0	0	0	0	highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=4		78	2885
+7920567	52175889	191	6	1000	0	0	0	0	highway=path surface=ground		82	3122
+7920394	52175854	193	6	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		4	119
+7920244	52175917	193	12	1000	0	0	0	0	highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes mtb:scale:uphill=4		13	323
+7916407	52176751	186	277	1000	0	0	0	0	highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		203	922
+7913542	52178039	161	262	1000	0	0	0	0	highway=track tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		173	0
+7913406	52178178	162	18	1000	0	0	0	0	highway=steps tracktype=grade3 surface=ground incline=down route_hiking_rwn=yes route_hiking_lwn=yes		185	0
+7913014	52178291	160	27	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		203	0
+7913014	52178291	160	3	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		2	27
+7912825	52178232	157	15	1000	0	0	0	0	highway=steps route_hiking_rwn=yes route_hiking_lwn=yes		12	27
+7912614	52178280	156	14	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		22	100
+7912614	52178280	156	1	1000	0	0	0	0	reversedirection=yes highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		0	9
+7912284	52178381	153	25	1000	0	0	0	0	highway=steps route_hiking_rwn=yes route_hiking_lwn=yes		18	192
+7912349	52178631	150	21	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		32	192
+7913566	52179047	144	107	1000	0	0	0	0	highway=path tracktype=grade3 route_hiking_rwn=yes route_hiking_lwn=yes		72	135
+7912992	52179080	144	34	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		94	135
+7911543	52179866	140	139	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		96	637
+7908770	52180530	149	210	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		173	9072
+7906790	52180313	154	149	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		111	3048
+7907105	52180552	153	21	1000	0	0	0	0	reversedirection=yes highway=track surface=gravel route_hiking_rwn=yes		126	3260
+7906790	52180313	154	21	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes		15	277
+7905889	52180087	143	75	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		62	277
+7906075	52180933	149	100	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		74	2072
+7905593	52181409	152	59	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		43	1160
+7901280	52182511	160	328	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		244	6607
+7901225	52182613	159	13	1000	0	0	0	0	highway=track surface=gravel route_hiking_rwn=yes route_hiking_lwn=yes		10	296
+7902502	52182516	160	70	1000	0	0	0	0	highway=path surface=gravel		63	2060
+7901598	52182630	159	44	1000	0	0	0	0	reversedirection=yes highway=path surface=gravel		30	94
+7901039	52183126	155	95	1000	0	0	0	0	highway=path surface=ground		97	608
+7900835	52183917	143	170	1000	0	0	0	0	highway=path surface=ground		110	110
+7902101	52183411	141	39	1000	0	0	0	0	highway=path		134	110
+7900835	52183917	143	39	1000	0	0	0	0	reversedirection=yes highway=path		28	503
+7898880	52184807	145	145	1000	0	0	0	0	highway=path surface=ground		134	2691
+7896632	52185594	156	179	1000	0	0	0	0	highway=path surface=ground		143	6926
+7895488	52186418	147	141	1000	0	0	0	0	highway=path surface=ground		96	601
+7895581	52186482	145	10	1000	0	0	0	0	reversedirection=yes highway=track		102	601
+7894832	52186742	145	23	1000	0	0	0	0	highway=path		117	601
+7895581	52186482	145	23	1000	0	0	0	0	reversedirection=yes highway=path		16	190
+7895488	52186418	147	10	1000	0	0	0	0	highway=track		24	473
+7894447	52186658	151	77	1000	0	0	0	0	highway=path surface=ground		82	2174
+7892587	52186791	161	114	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		182	9192
+7887706	52188475	165	348	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		251	4281
+7886090	52188289	164	152	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		106	868
+7884378	52187778	150	135	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		85	88
+7882681	52186678	153	176	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		125	1624
+7882522	52186608	154	21	1000	0	0	0	0	reversedirection=yes highway=track tracktype=grade3 surface=ground		15	331
+7883053	52186524	153	38	1000	0	0	0	0	highway=track tracktype=grade1 surface=asphalt route_hiking_rwn=yes route_hiking_lwn=yes		42	710
+7883262	52185987	156	71	1000	0	0	0	0	highway=path surface=ground route_hiking_rwn=yes route_hiking_lwn=yes		96	2376
+7883678	52185532	159	49	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		132	3239
+7884105	52184287	151	155	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		105	558
+7884070	52183849	145	51	1000	0	0	0	0	highway=path		137	558
+7884105	52184287	151	51	1000	0	0	0	0	reversedirection=yes highway=path		39	1288
+7884909	52183050	138	149	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		142	2193
+7884949	52182854	135	22	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		14	0
+7884681	52182737	132	14	1000	0	0	0	0	highway=path surface=ground		23	0
+7885141	52181556	119	154	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		97	330
+7884819	52180964	113	76	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		52	190
+7885176	52180604	110	48	1000	0	0	0	0	reversedirection=yes highway=path surface=ground		32	136
+7884968	52180292	106	3	1000	0	0	0	0	highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		34	136
+7884560	52179873	99	89	1000	0	0	0	0	highway=service surface=asphalt foot=permissive route_hiking_lwn=yes		57	0
+7884164	52179986	98	26	1000	0	0	0	0	highway=service surface=compacted foot=permissive		73	0
